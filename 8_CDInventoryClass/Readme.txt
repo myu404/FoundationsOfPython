@@ -12,4 +12,6 @@ FileIO class: static methods to handle file input/output files. This class is de
 
 IO class: static methods to enable user-interaction with the console to add CD data and output to file.
 
+This is an academic assignment.
+
 Student generated code: CD_Inventory.py
